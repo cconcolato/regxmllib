@@ -70,7 +70,7 @@ of the header metadata of the MXF file at path PATH_TO_MXF_FILE
 
     * OPTION 1
 
-        * retrieve the four SMPTE Metadata Registers (see [2] above)
+        * retrieve the four SMPTE Metadata Registers (see [1] above)
     
         * build the metadictionaries from the SMPTE registers
 
